@@ -4,6 +4,10 @@ AI model trained from the novel Dracula by Bram Stoker.
 Author: Timothy Johnson <br>
 Date: May 2024
 
+### Hugging Face Model
+
+[Dracula AI Model](https://huggingface.co/MrTimmyJ/Dracula/tree/main)
+
 ## Overview
 
 &nbsp;&nbsp;&nbsp;&nbsp; A transformer-based language model trained on Bram Stoker’s *Dracula*, built using PyTorch and GPT-2 tokenization.
